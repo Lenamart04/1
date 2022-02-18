@@ -1,0 +1,23 @@
+.main {
+    margin-top: 45px;
+    display:flex;
+    align-items: center;
+}
+
+.main__content {
+    max-width: 552px;
+
+}
+
+.main__title {  
+    font-size: 55px;
+    line-height: 85px;
+    font-weight: 500;
+}
+
+.main__text {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-size: 18px;
+    font-weight: lighter;
+}

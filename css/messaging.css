@@ -1,0 +1,24 @@
+.messaging {
+    display: flex;
+    align-items: center;
+    padding-top: 80px;
+}
+
+.messaging__content {
+    max-width: 466px;
+}
+
+.messaging__title {
+    font-weight: 600px;
+    font-size: 35px;
+    line-height: 50px;
+}
+
+.messaging__text {
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 30px;
+    font-weight: lighter;
+}
+
+

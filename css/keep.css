@@ -1,0 +1,30 @@
+.keep__title {
+    font-size: 35px;
+    line-height: 50px;
+    font-weight:500;
+    max-width: 466px;
+    padding-bottom: 23px;
+
+}
+
+.keep__text {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: lighter;
+    max-width: 466px;
+}
+
+.keep__content {
+    display: flex;
+    align-items:center;
+}
+
+.keep__img {
+    margin-top: 100px;
+}
+
+.keep__cont {
+    display: inline-grid;
+    padding-top: 304px;
+    padding: 48px;
+}

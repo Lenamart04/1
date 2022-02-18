@@ -1,0 +1,25 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    padding-bottom: 80px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.footer__app {
+    display: flex;
+}
+
+.footer__item {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.footer__item:hover {
+    text-decoration: none;
+}
+
+.footer__item + .footer__item {
+    margin-left: 20px;
+}

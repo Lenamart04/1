@@ -1,0 +1,44 @@
+.devices {
+    display: flex;
+    margin-top: 80px;
+    justify-content: center;
+}
+
+.devices__item + .devices__item {
+    margin-left: 30px;
+}
+
+.devices__item {
+    max-width: 360px;
+    padding: 30px;
+    background-color: #fff;
+}
+
+.devices__img {
+    margin-bottom: 20px;
+}
+
+.devices__title {
+    font-size: 22px;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+
+.devices__text {
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-weight: lighter;
+}
+
+.devices__footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.devices__link {
+    font-size: 16px;
+    font-weight: normal;
+    text-decoration: underline;
+}
+

@@ -1,0 +1,11 @@
+.header {
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__brand {
+    color: #FF0043;
+    font-size: 20px;
+    font-weight: bold;
+}

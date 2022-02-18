@@ -1,0 +1,36 @@
+
+.form {
+        background-color: #00194A;
+        border-radius: 25px;
+        Height: 346px;
+        margin-top: 111px;
+}
+
+.form__content {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.form__title {
+    width: 466px;
+    height: 70px;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+    color: #fff;
+    padding-top: 50px;
+    margin-left: 50px;
+}
+
+.form__text {
+    font-size: 18px;
+    line-height: 25px;
+    color: #fff;
+    max-width: 540px;
+    margin-top: 25px;
+    text-align: center;
+    font-weight: lighter;
+    margin-bottom: 50px;
+}
+
